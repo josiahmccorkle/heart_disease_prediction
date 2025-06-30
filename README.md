@@ -12,12 +12,14 @@ Heart Disease Prediction - Predict if a patient has heart disease based on featu
 
 ## Usage
 
-### Train the Model
+### Train the Model on whatever version of python you have. Im using `pyenv` to maintain mine
+My current version: `Python 3.13.2`
 ```bash
-python [heartDiseasePrediction.py](http://_vscodecontentref_/0)
+python heartDiseasePrediction.py
 
-python [heartDiseasePrediction.py](http://_vscodecontentref_/1) --test
+python heartDiseasePrediction.py --test
 ```
+
 
 ### Notes
 - The main script is heartDiseasePrediction.py.
